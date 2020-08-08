@@ -1,4 +1,4 @@
-# Rocket_Elevators_GraphQL IN java
+# Rocket_Elevators_GraphQL in Elixir
 
 To start your Phoenix server:
 
